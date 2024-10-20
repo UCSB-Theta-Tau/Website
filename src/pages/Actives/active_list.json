@@ -408,5 +408,140 @@
                 "image": "Victor_Nardi.jpg"
             }
         ]
+    },
+    {
+        "class": "xi",
+        "actives": [
+            {
+                "name": "Andrew Chen",
+                "year": "2nd Year Computer Science",
+                "hometown": "Fullerton, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Andrew_Chen.jpg"
+            },
+            {
+                "name": "Anvitha Kosuri",
+                "year": "3rd Year Computer Science",
+                "hometown": "Arcadia, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "David Zegarra",
+                "year": "4th Year Electrical Engineering",
+                "hometown": "Visalia, CA",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Emily Lao",
+                "year": "2nd Year Computer Science",
+                "hometown": "Oakland, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Emily_Lao.jpg"
+            },
+            {
+                "name": "Ethan Reeves",
+                "year": "2nd Year Computer Engineering",
+                "hometown": "Pleasanton, CA",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Grant Sestak",
+                "year": "2nd Year Mechanical Engineering",
+                "hometown": "San Clemente, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Grant_Sestak.jpg"
+            },
+            {
+                "name": "Hung Khuu",
+                "year": "3rd Year Computer Science",
+                "hometown": "Reseda, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Hung_Khuu.jpg"
+            },
+            {
+                "name": "Junhyung Yoon",
+                "year": "2nd Year Computer Science",
+                "hometown": "Irvine, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Junhyung_Yoon.jpg"
+            },
+            {
+                "name": "Megan Fu",
+                "year": "2nd Year Computer Engineering",
+                "hometown": "San Jose, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Megan_Fu.jpg"
+            },
+            {
+                "name": "Nic Santos",
+                "year": "2nd Year Computer Engineering",
+                "hometown": "South San Francisco, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Nic_Santos.jpg"
+            },
+            {
+                "name": "Nina Korevaar",
+                "year": "2nd Year Mechanical Engineering",
+                "hometown": "San Diego, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Nina_Korevaar.jpg"
+            },
+            {
+                "name": "Rudro Lahiri",
+                "year": "2nd Year Electrical Engineering",
+                "hometown": "San Jose, California",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
+                "name": "Sasha Lenkin",
+                "year": "4th Year Electrical Engineering",
+                "hometown": "Santa Monica, CA",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            }
+        ]
     }
 ]
