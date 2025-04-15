@@ -330,10 +330,10 @@
             {
                 "name": "Gen Tamada",
                 "year": "Fourth Year Computer Science",
-                "hometown": "",
-                "why": "",
-                "what": "",
-                "about": "",
+                "hometown": "Shanghai, China",
+                "why": "I wanted to find and bond with more people who share common interests with me, while also strengthening the professional aspect of my life.",
+                "what": "I love finding people who surprise me with how much we share in common. The fact that I am able to receive and provide help from/to actives is also nice.",
+                "about": "I like to play badminton and pickleball. I love all sorts of anime and manga, but my favorite is Angel Beats! My favorite musician is Ado, and I just recently went to her concert.",
                 "linkedin": "https://www.linkedin.com/in/gen-tamada/",
                 "image": "Gen_Tamada.jpg"
             },
@@ -350,17 +350,17 @@
             {
                 "name": "Lily Campbell",
                 "year": "Second Year Chemical Engineering",
-                "hometown": "",
-                "why": "",
-                "what": "",
-                "about": "",
+                "hometown": "Huntington Beach, CA",
+                "why": "I joined TT so I could meet new people in the College of Engineering and expand on my professional skills.",
+                "what": "I enjoy getting to hang out with my psibs!",
+                "about": "I love to swim and play basketball. I'm a huge video game nerd and I also love to read!",
                 "linkedin": "",
                 "image": "Lily_Campbell.jpg"
             },
             {
                 "name": "Mai Dang",
                 "year": "Fourth Year Computer Science",
-                "hometown": "",
+                "hometown": "San Francisco, CA",
                 "why": "I joined Theta Tau to meet new people, build connections with others in my major, and expand my professional network.",
                 "what": "",
                 "about": "I'm a CA major in the Class of 2025. Outside of school, I love hiking and enjoying a good book under the Santa Barbara sun.",
@@ -370,7 +370,7 @@
             {
                 "name": "Marshall Muscat",
                 "year": "Second Year Electrical Engineering",
-                "hometown": "",
+                "hometown": "San Francisco, CA",
                 "why": "",
                 "what": "",
                 "about": "",
@@ -380,7 +380,7 @@
             {
                 "name": "Rohan Kumar",
                 "year": "Fourth Year Computer Science",
-                "hometown": "",
+                "hometown": "San Jose, CA",
                 "why": "I joined TT to meet people in my classes and to have some sort of community that I could hang out with outside school.",
                 "what": "I enjoy the events we have because they’re always a good time.",
                 "about": "I played piano for 10 years and I like to lift.",
@@ -390,7 +390,7 @@
             {
                 "name": "Tim Schmuelling",
                 "year": "Fourth Year Mechanical Engineering",
-                "hometown": "",
+                "hometown": "San Jose, CA",
                 "why": "Wanted to meet more like-minded people and find balance in social and professional life",
                 "what": "It feels like a strong community of people that are pretty committed to academics but also know how to enjoy themselves in college. That's something I've always strived for, and I feel like it's always been hard to balance the two, but seeing so many other people in TT do it made me motivated to follow suit. Everyone is so welcoming and kind in TT, and I know I can reach out to anyone for help with academics or just to hang out. ",
                 "about": "I'm a 4th year Mechanical Engineering major, I like playing guitar, piano soccer, tennis, cooking, and cycling in my free time. I have a second dan black belt in Tae Kwon Do and was at one point ranked around top 0.05% in Rocket League (used to be on UCSB's Gold Team). I think I'm a pretty genuine person with a lot of different interests and willingness to try basically anything new.",
@@ -400,7 +400,7 @@
             {
                 "name": "Victor Nardi",
                 "year": "Third Year Computer Science",
-                "hometown": "",
+                "hometown": "Denver, CO",
                 "why": "To meet like minded people :)",
                 "what": "I like that I have friends in all my classes and get to learn from out alumni.",
                 "about": "Highly motivated CS student pursuing a career in ML",
@@ -415,7 +415,7 @@
             {
                 "name": "Andrew Chen",
                 "year": "2nd Year Computer Science",
-                "hometown": "Fullerton, California",
+                "hometown": "Fullerton, CA",
                 "why": "I joined Theta Tau to network with other like minded engineering students at UCSB",
                 "what": "I enjoy spending time with the people I met in Theta Tau and taking classes with them.",
                 "about": "I like eating and sleeping. I also play a lot of soccer!",
@@ -425,7 +425,7 @@
             {
                 "name": "Anvitha Kosuri",
                 "year": "3rd Year Computer Science",
-                "hometown": "Arcadia, California",
+                "hometown": "Arcadia, CA",
                 "why": "I joined Theta Tau for the built-in tech support—I needed an upgrade.",
                 "what": "I love that Theta Tau offers the perfect blend of professional development and social events.",
                 "about": "I enjoy horror and rom-com movies, going out with friends, hiking, traveling, and embracing my adrenaline junkie side with adventure sports.",
@@ -445,7 +445,7 @@
             {
                 "name": "Emily Lao",
                 "year": "2nd Year Computer Science",
-                "hometown": "Oakland, California",
+                "hometown": "Oakland, CA",
                 "why": "I wanted to meet more people in my major outside of studying and classes and really get to know them.",
                 "what": "That everyone is open to getting to know each other, and there’s lots of opportunities for social and professional connections",
                 "about": "2nd year computer science major",
@@ -465,7 +465,7 @@
             {
                 "name": "Grant Sestak",
                 "year": "2nd Year Mechanical Engineering",
-                "hometown": "San Clemente, California",
+                "hometown": "San Clemente, CA",
                 "why": "I joined Theta Tau to become friends with more engineers. I also wanted to find more people in my classes, and to make connections with upperclassmen who have more experience and resources in engineering.",
                 "what": "I enjoy how we have a good balance between social and professional events. Additionally, I enjoy how many close friends I have gained from joining Theta Tau.",
                 "about": "I'm a second year mechanical engineering major. My hobbies including running, going to the beach, hiking, and cooking.",
@@ -475,7 +475,7 @@
             {
                 "name": "Hung Khuu",
                 "year": "3rd Year Computer Science",
-                "hometown": "Reseda, California",
+                "hometown": "Reseda, CA",
                 "why": "I joined Theta Tau to find a community of friends who shared similar professional goals and support each other.",
                 "what": "I've found a wide network of friends who can help me through my classes and also share so many common interests and hobbies. It's nice to be able to have a group of people I know I can both joke and pursue my goals with.",
                 "about": "I enjoy trying to find good secondhand clothing pieces, looking at clothes I can't afford, watching anime, reading manga, and occasionally play video games. Most of the time I only have enough free time to be on my phone for a bit tho",
@@ -485,7 +485,7 @@
             {
                 "name": "Junhyung Yoon",
                 "year": "2nd Year Computer Science",
-                "hometown": "Irvine, California",
+                "hometown": "Irvine, CA",
                 "why": "I joined Theta Tau to be able to meet likeminded people who shared similar interests and could nurture my growth in college as an engineer.",
                 "what": "I enjoy that we are bale to mix in both professional and brotherhood events which gives the fraternity a good balance.",
                 "about": "I am a second-year computer science student interested in computer vision and machine learning applications. Apart from school I enjoy playing guitar, basketball, driving, and any outdoor activity that comes my way.",
@@ -495,7 +495,7 @@
             {
                 "name": "Megan Fu",
                 "year": "2nd Year Computer Engineering",
-                "hometown": "San Jose, California",
+                "hometown": "San Jose, CA",
                 "why": "Wanted to meet more engineers, help with professional development, and expand my network!",
                 "what": "The people I've met and had the pleasure of getting to know is my fav part ab TT!",
                 "about": "I'm a Computer Engineer, I love working out, baking, watching trashy reality tv, and playing games lol!",
@@ -505,7 +505,7 @@
             {
                 "name": "Nic Santos",
                 "year": "2nd Year Computer Engineering",
-                "hometown": "South San Francisco, California",
+                "hometown": "South San Francisco, CA",
                 "why": "I joined Theta Tau to meet more engineers and grow socially and academically",
                 "what": "I enjoy how Theta Tau has allowed me to meet many cool people and build great relationships ",
                 "about": "I like to play basketball, golf, and journal on the beach while listening to Lana Del Rey",
@@ -515,7 +515,7 @@
             {
                 "name": "Nina Korevaar",
                 "year": "2nd Year Mechanical Engineering",
-                "hometown": "San Diego, California",
+                "hometown": "San Diego, CA",
                 "why": "To meet more engineers and to get help with professional things, like my resume.",
                 "what": "I like going to brotherhood events with my brothers",
                 "about": "I love literature - I try to read as much as possible when I have the time. I also enjoy baking, crocheting, and running, and I know way too much about pop culture, superheroes, and art history.",
@@ -525,7 +525,7 @@
             {
                 "name": "Rudro Lahiri",
                 "year": "2nd Year Electrical Engineering",
-                "hometown": "San Jose, California",
+                "hometown": "San Jose, CA",
                 "why": "",
                 "what": "",
                 "about": "",
