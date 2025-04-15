@@ -13,16 +13,6 @@
                 "image": "Adyah_Rastogi.jpg"
             },
             {
-                "name": "Daniella Polishchuk",
-                "year": "Fourth Year Electrical Engineering",
-                "hometown": "Fremont, CA",
-                "why": "TT surrounds me with an extremely warm, fun, and encouraging environment. I grown and learned so much from people I feel very close to.",
-                "what": "There is always going to be someone around that I am familiar with. We all have fun together and also help each other through academics and professional opportunities.",
-                "about": "I am an electrical engineering major with interest in math, business, and art. I love to play the piano and practice kung fu.",
-                "linkedin": "https://www.linkedin.com/in/daniella-polishchuk-354643229/",
-                "image": "Daniella_Polishchuk.jpg"
-            },
-            {
                 "name": "Danny Shum",
                 "year": "Fourth Year Mechanical Engineering",
                 "hometown": "Cupertino, CA",
@@ -330,10 +320,10 @@
             {
                 "name": "Gen Tamada",
                 "year": "Fourth Year Computer Science",
-                "hometown": "",
-                "why": "",
-                "what": "",
-                "about": "",
+                "hometown": "Shanghai, China",
+                "why": "I wanted to find and bond with more people who share common interests with me, while also strengthening the professional portion of my life.",
+                "what": "I love finding people who surprise me with how much we share in common. The fact that I am able to receive and provide help from/to actives is also nice.",
+                "about": "I'm a 3rd year CS major who likes badminton. I love all sorts of anime and manga, but my favorite is Angel Beats! My favorite musician is Ado, and I just recently went to her concert.",
                 "linkedin": "https://www.linkedin.com/in/gen-tamada/",
                 "image": "Gen_Tamada.jpg"
             },
@@ -350,10 +340,10 @@
             {
                 "name": "Lily Campbell",
                 "year": "Second Year Chemical Engineering",
-                "hometown": "",
-                "why": "",
-                "what": "",
-                "about": "",
+                "hometown": "Huntington Beach, CA",
+                "why": "I joined TT so I could meet new people in the College of Engineering and expand on my professional skills.",
+                "what": "I enjoy getting to hang out with my psibs!",
+                "about": "I love to swim and play basketball. I’m a huge video game nerd and I also love to read!",
                 "linkedin": "",
                 "image": "Lily_Campbell.jpg"
             },
@@ -390,7 +380,7 @@
             {
                 "name": "Tim Schmuelling",
                 "year": "Fourth Year Mechanical Engineering",
-                "hometown": "",
+                "hometown": "San Jose, CA",
                 "why": "Wanted to meet more like-minded people and find balance in social and professional life",
                 "what": "It feels like a strong community of people that are pretty committed to academics but also know how to enjoy themselves in college. That's something I've always strived for, and I feel like it's always been hard to balance the two, but seeing so many other people in TT do it made me motivated to follow suit. Everyone is so welcoming and kind in TT, and I know I can reach out to anyone for help with academics or just to hang out. ",
                 "about": "I'm a 4th year Mechanical Engineering major, I like playing guitar, piano soccer, tennis, cooking, and cycling in my free time. I have a second dan black belt in Tae Kwon Do and was at one point ranked around top 0.05% in Rocket League (used to be on UCSB's Gold Team). I think I'm a pretty genuine person with a lot of different interests and willingness to try basically anything new.",
@@ -400,7 +390,7 @@
             {
                 "name": "Victor Nardi",
                 "year": "Third Year Computer Science",
-                "hometown": "",
+                "hometown": "Denver, CO",
                 "why": "To meet like minded people :)",
                 "what": "I like that I have friends in all my classes and get to learn from out alumni.",
                 "about": "Highly motivated CS student pursuing a career in ML",
