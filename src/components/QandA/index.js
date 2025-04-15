@@ -1,1 +1,0 @@
-export { QandA } from './QandA';
