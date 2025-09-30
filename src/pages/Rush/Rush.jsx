@@ -23,7 +23,7 @@ const data = [
   {
     id: '1',
     question: 'Am I eligible to join?',
-    answer: 'Rush is open to everyone to attend! If you are interested in joining, you 1) should have a 2.5 or higher GPA, 2) majoring in College of Engineering or interested in transferring to CoE, and 3) must not be in your first or last quarter of instruction.',
+    answer: 'Rush is open to everyone to attend! If you are interested in joining, you 1) should have a 2.5 or higher GPA, 2) majoring in College of Engineering or interested in transferring to CoE, and 3) must not be in your last quarter of instruction.',
   },
 ];
 
