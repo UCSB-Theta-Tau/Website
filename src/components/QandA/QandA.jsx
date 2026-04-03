@@ -1,6 +1,6 @@
 import { faAngleDown, faAngleUp } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import useResizeAware from 'react-resize-aware';
 import { animated, useSpring } from 'react-spring';
 import { StyledFaq } from './QandA.styles';

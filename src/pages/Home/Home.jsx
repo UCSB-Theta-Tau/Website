@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   About, HomeFullPage, Deck,
 } from '../../components';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { ProfileContainer, ProfileName, ProfilePicture } from './Profile.styles';
 
 const Profile = (props) => {

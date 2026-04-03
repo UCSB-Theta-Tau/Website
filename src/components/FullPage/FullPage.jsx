@@ -1,4 +1,3 @@
-import React from 'react';
 import {
   FullPageContainer, FullPageTransparent, FullPageTitle, FullPageSubtitle, FullPageText,
 } from './FullPage.styles';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import {

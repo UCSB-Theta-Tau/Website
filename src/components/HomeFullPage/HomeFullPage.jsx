@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { FullPageContainer, FullPageTitle, FullPageText } from './HomeFullPage.styles';
 
 const useTypewriter = (text, speed = 70, delay = 0, enabled = true) => {

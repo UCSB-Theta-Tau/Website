@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { faBars, faTimes } from '@fortawesome/free-solid-svg-icons';
 import {
   Bar, GridContainer, Logo, LogoImg, LogoSeparator,

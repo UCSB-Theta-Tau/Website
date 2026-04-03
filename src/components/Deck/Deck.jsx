@@ -1,4 +1,3 @@
-import React from 'react';
 import { DeckContainer, DeckTitle, CardContainer } from './Deck.styles';
 import { Card } from '..';
 
