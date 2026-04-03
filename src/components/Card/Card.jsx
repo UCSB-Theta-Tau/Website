@@ -17,7 +17,7 @@ const Card = (props) => {
   return (
     <CardContainer isFlipped={flipped} flipDirection="horizontal">
       <CardCard onClick={handleFlip}>
-        <CardImg src={`${process.env.PUBLIC_URL + props.img}`} alt={props.title} />
+        <CardImg src={props.img} alt={props.title} />
       </CardCard>
       <CardCard onClick={handleRevert}>
         <CardTitle>

@@ -9,7 +9,7 @@ const Gallery = (props) => {
     if (isLoading) {
       const imagesPh = [];
       for (let i = 0; i < props.size; i++) {
-        imagesPh.push(<GalleryImage src={`${process.env.PUBLIC_URL + props.imageDir}/${i}.jpg`} alt="gallery" loading="lazy" />);
+        imagesPh.push(<GalleryImage src={`${props.imageDir}/${i}.jpg`} alt="gallery" loading="lazy" />);
       }
       setImages(imagesPh);
       setIsLoading(false);

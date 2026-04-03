@@ -23,7 +23,7 @@ const Navbar = () => {
       <Bar>
         <GridContainer>
           <Logo to="/">
-            <LogoImg src={`${process.env.PUBLIC_URL}/static/navbar/logo.png`} alt="logo" />
+            <LogoImg src="/static/navbar/logo.png" alt="logo" />
             <TTText>
               Theta Tau
               <LogoSeparator>
