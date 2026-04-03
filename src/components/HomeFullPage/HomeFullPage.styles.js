@@ -1,7 +1,6 @@
 import styled from 'styled-components';
-import Typist from 'react-typist';
 
-export const FullPageContainer = styled(Typist)`
+export const FullPageContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,7 +8,7 @@ export const FullPageContainer = styled(Typist)`
   height: 100vh;
   color: white;
   font-family: 'Azeret Mono', monospace;
-  background: url(${process.env.PUBLIC_URL}/static/home/home.png);
+  background: url(/static/home/home.png);
   background-color: #4c0000;
   background-size: 160vw;
   @media (max-width: 480px) {

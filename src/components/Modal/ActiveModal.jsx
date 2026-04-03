@@ -1,4 +1,3 @@
-import React from 'react';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import {
@@ -59,7 +58,7 @@ const ActiveModal = (props) => {
             )}
           </div>
           <ModalProfileImageContainer>
-            <ModalProfileImage src={`${process.env.PUBLIC_URL}/static/profiles/${props.pledgeClass}/${props.img}`} alt={props.name} loading="lazy" />
+            <ModalProfileImage src={`/static/profiles/${props.pledgeClass}/${props.img}`} alt={props.name} loading="lazy" />
             <ModalSubtitle>{props.name}</ModalSubtitle>
             <a target="_blank" href={props.linkedin} rel="noreferrer">
               <LinkedinButton icon={faLinkedin} />

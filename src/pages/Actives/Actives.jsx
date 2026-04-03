@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Class, ActiveModal } from '../../components';
 import { ActivesContainer } from './Actives.styles';
 import classes from './active_list.json';

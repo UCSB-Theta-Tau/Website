@@ -1,4 +1,3 @@
-import React from 'react';
 import { FullPage, Deck } from '../../components';
 
 const History = () => (

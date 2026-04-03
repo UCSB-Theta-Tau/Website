@@ -1,4 +1,3 @@
-import React from 'react';
 import { faQuoteLeft } from '@fortawesome/free-solid-svg-icons';
 import { TextContainer, QuoteSymbol } from './Text.styles';
 

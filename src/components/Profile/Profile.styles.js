@@ -13,7 +13,7 @@ export const ProfilePicture = styled.div`
     height: 10vw;
     border-radius: 5px;
     background-size: cover;
-    background-image: url(\"${process.env.PUBLIC_URL}/static/profiles/${(props) => `${props.pledgeClass}/${props.image}`}\");
+    background-image: url(\"/static/profiles/${(props) => `${props.$pledgeClass}/${props.$image}`}\");
     background-position: center;
     cursor: pointer;
     color: white;

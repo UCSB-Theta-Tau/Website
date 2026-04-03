@@ -1,4 +1,3 @@
-import React from 'react';
 import { Text } from '..';
 import { AboutContainer, AboutTitle } from './About.styles';
 

@@ -1,4 +1,3 @@
-import React from 'react';
 import { ClassContainer, ClassName, ProfilesContainer } from './Class.styles';
 import { Profile } from '..';
 

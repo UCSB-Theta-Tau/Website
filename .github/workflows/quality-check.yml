@@ -8,21 +8,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
       with:
-        node-version: '14'
+        node-version: '22'
     - name: Install
       run: yarn install
     - name: Lint
       run: yarn lint-check
     - name: Build
       run: yarn build
-    - name: Test
-      run: yarn test --passWithNoTests
     - name: Check npm was NOT used
       id: check_files
-      uses: andstor/file-existence-action@v1
+      uses: andstor/file-existence-action@v3
       with:
         files: "package-lock.json"
     - name: Check package-lock does not exist

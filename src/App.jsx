@@ -1,5 +1,4 @@
-import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Navbar } from './components';
 import { Actives, Alumni, Brotherhood, History, Home, Professionalism, Rush, Service } from './pages';
 
@@ -8,17 +7,19 @@ function App() {
     <Router>
       <Navbar />
 
-      <Route exact path="/" component={Home} />
+      <Routes>
+        <Route path="/" element={<Home />} />
 
-      <Route path="/history" component={History} />
-      <Route path="/brotherhood" component={Brotherhood} />
-      <Route path="/professionalism" component={Professionalism} />
-      <Route path="/service" component={Service} />
+        <Route path="/history" element={<History />} />
+        <Route path="/brotherhood" element={<Brotherhood />} />
+        <Route path="/professionalism" element={<Professionalism />} />
+        <Route path="/service" element={<Service />} />
 
-      <Route path="/actives" component={Actives} />
-      <Route path="/alumni" component={Alumni} />
+        <Route path="/actives" element={<Actives />} />
+        <Route path="/alumni" element={<Alumni />} />
 
-      <Route path="/rush" component={Rush} />
+        <Route path="/rush" element={<Rush />} />
+      </Routes>
     </Router>
   );
 }

@@ -1,4 +1,3 @@
-import React from 'react';
 import { FullPage, About } from '../../components';
 
 const Professionalism = () => (
