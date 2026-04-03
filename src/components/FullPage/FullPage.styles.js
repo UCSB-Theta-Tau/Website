@@ -5,7 +5,7 @@ export const FullPageContainer = styled.div`
   max-width: 100vw;
   color: white;
   font-family: 'Azeret Mono', monospace;
-  background: ${(props) => props.img};
+  background: ${(props) => props.$img};
   background-size: cover;
   background-position: center;
   text-transform: uppercase;

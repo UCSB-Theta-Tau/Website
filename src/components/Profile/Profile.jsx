@@ -10,7 +10,7 @@ const Profile = (props) => {
 
   return (
     <ProfileContainer onClick={changeModal}>
-      <ProfilePicture pledgeClass={props.pledgeClass} image={props.profile.image} />
+      <ProfilePicture $pledgeClass={props.pledgeClass} $image={props.profile.image} />
       <ProfileName>{props.profile.name}</ProfileName>
     </ProfileContainer>
   );

@@ -1,7 +1,6 @@
 import styled from 'styled-components';
-import Typist from 'react-typist';
 
-export const FullPageContainer = styled(Typist)`
+export const FullPageContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
