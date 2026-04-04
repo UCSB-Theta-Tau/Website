@@ -350,7 +350,7 @@
                 "what": "",
                 "about": "",
                 "linkedin": "",
-                "image": "fraternalfellowship.png"
+                "image": "Jack_Liu.jpg"
               },
               {
                 "name": "Jarek Pascua",
@@ -463,6 +463,110 @@
                 "image": "Taryn Cheng.jpg"
               }
         ]
-
+    },
+    {
+      "class": "rho",
+      "actives": [
+        {
+          "name": "Alan Kocis",
+          "year": "3rd Year Electrical Engineering",
+          "hometown": "Chatsworth, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Alex Battersby",
+          "year": "2nd Year Electrical Engineering",
+          "hometown": "Orinda, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Aryan Chopra",
+          "year": "4th Year Computer Science",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Ayush Ganguly",
+          "year": "1st Year Electrical Engineering",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "Ayush_Ganguly.jpg"
+        },
+        {
+          "name": "Christian Kantchev",
+          "year": "1st Year Computer Engineering",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "Christian_Kantchev.jpg"
+        },
+        {
+          "name": "Dylan Lee",
+          "year": "1st Year Computer Engineering",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "Dylan_Lee.jpg"
+        },
+        {
+          "name": "Ethan Nghiem",
+          "year": "1st Year Mechanical Engineering",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "Ethan_Nghiem.jpg"
+        },
+        {
+          "name": "Sharanya Gehlot",
+          "year": "3rd Year Computer Science",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "Sharanya_Gehlot.jpg"
+        },
+        {
+          "name": "Shelly Parekh",
+          "year": "1st Year Computer Science",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "Shelly_Parekh.jpg"
+        },
+        {
+          "name": "Yash Sujit",
+          "year": "2nd Year Mechanical Engineering",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        }
+      ]
     }
 ]
