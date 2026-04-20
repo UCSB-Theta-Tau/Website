@@ -123,6 +123,16 @@
                 "image": "Andrew_Chen.jpg"
             },
             {
+                "name": "Anvitha Kosuri",
+                "year": "3rd Year Computer Science",
+                "hometown": "Arcadia, CA",
+                "why": "I joined Theta Tau for the built-in tech support—I needed an upgrade.",
+                "what": "I love that Theta Tau offers the perfect blend of professional development and social events.",
+                "about": "I enjoy horror and rom-com movies, going out with friends, hiking, traveling, and embracing my adrenaline junkie side with adventure sports.",
+                "linkedin": "",
+                "image": "fraternalfellowship.png"
+            },
+            {
                 "name": "Emily Lao",
                 "year": "3rd Year Computer Science",
                 "hometown": "Oakland, CA",
@@ -218,16 +228,6 @@
         "class": "omicron",
         "actives": [
             {
-                "name": "Akhila Johny",
-                "year": "4th Year Electrical Engineering",
-                "hometown": "",
-                "why": "",
-                "what": "",
-                "about": "",
-                "linkedin": "",
-                "image": "Akihla Johny.jpg"
-            },
-            {
                 "name": "Alvin Chan",
                 "year": "3rd Year Computer Science",
                 "hometown": "",
@@ -236,6 +236,16 @@
                 "about": "I am from San Francisco. In my free-time I like to learn languages. The main reason I do this is so that I have a better time when I’m traveling abroad. I also like clothes and fragrances sometimes.",
                 "linkedin": "www.linkedin.com/in/alvinkenchan",
                 "image": "Alvin Chan.jpg"
+            },
+            {
+                "name": "Nicho Sunardi",
+                "year": "2nd Year Chemical Engineering",
+                "hometown": "",
+                "why": "I wanted to meet like minded individuals that I can do homework with",
+                "what": "Hanging out with my pclass",
+                "about": "I really love music",
+                "linkedin": "www.linkedin.com/nichosunardi",
+                "image": "fraternalfellowship.png"
             },
             {
                 "name": "Noah Louie",
