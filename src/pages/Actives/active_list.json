@@ -25,7 +25,7 @@
             {
                 "name": "Jennifer Zhu",
                 "year": "4th Year Computer Science",
-                "hometown": "Cupertino,CA",
+                "hometown": "Cupertino, CA",
                 "why": "I join TT to find a community of people in engineering that shared the same interest in professionally and socially with me",
                 "what": "I enjoy TT because I find a sense of belonging with the actives and I got a lot of professional help and advice from people in the community",
                 "about": "In my spare time, I love to do activities that express creativity like drawing and photography. I also love grabbing 7 dollars coffee",
@@ -561,6 +561,187 @@
           "name": "Yash Sujit",
           "year": "2nd Year Mechanical Engineering",
           "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        }
+      ]
+    },{
+      "class": "Sigma",
+      "actives": [
+        {
+          "name": "Aiden Chen",
+          "year": "2nd Year Mechanical Engineering",
+          "hometown": "Oceanside Ca",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Amil Gokhale",
+          "year": "3rd Year Mechanical Engineering",
+          "hometown": "San Jose, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Arlene Diaz",
+          "year": "2nd Year Electrical Engineering",
+          "hometown": "Riverside, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Dilveer Dhaliwal",
+          "year": "2nd Year Mechanical Engineering",
+          "hometown": "San Diego, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Harsha Pillarisetti",
+          "year": "3rd Year Computer Science",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Jeremy Sevilla",
+          "year": "3rd Year Mechanical Engineering",
+          "hometown": "Dublin, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Jerry Wang",
+          "year": "2nd Year Electrical Engineering",
+          "hometown": "Cupertino, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Joseph Romero",
+          "year": "3rd Year Mechanical Engineering",
+          "hometown": "San Diego, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Kalyn Cheng",
+          "year": "2nd Year Mechanical Engineering",
+          "hometown": "Hacienda Heights, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Lily Jiang",
+          "year": "2nd Year Chemical Engineering",
+          "hometown": "Cupertino, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },
+        {
+          "name": "Mahlet Getachew",
+          "year": "2nd Year Mechanical Engineering",
+          "hometown": "Stockton, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Manny Solis",
+          "year": "2nd Year Electrical Engineering",
+          "hometown": "Pittsburg CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },{
+          "name": "Mateo Cole",
+          "year": "3rd Year Electrical Engineering",
+          "hometown": "",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Nifemi Arowolo",
+          "year": "2nd Year Mechanical Engineering",
+          "hometown": "Santa Clarita, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },{
+          "name": "Paul Clayton",
+          "year": "2nd Year Computer Engineering",
+          "hometown": "San Jose, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Pasha Ivashchenko",
+          "year": "3rd Year Mechanical Engineering",
+          "hometown": "San Jose, CA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.png"
+        },{
+          "name": "Shivani Bandaru",
+          "year": "2nd Year Electrical Engineering",
+          "hometown": "Lexington, MA",
+          "why": "",
+          "what": "",
+          "about": "",
+          "linkedin": "",
+          "image": "fraternalfellowship.jpg"
+        },
+        {
+          "name": "Zoe Wang",
+          "year": "2nd Year Electrical Engineering",
+          "hometown": "Davis, CA",
           "why": "",
           "what": "",
           "about": "",
