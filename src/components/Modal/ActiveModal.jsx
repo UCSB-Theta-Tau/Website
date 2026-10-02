@@ -24,7 +24,7 @@ const ActiveModal = (props) => {
                 <ModalText>{props.year}</ModalText>
               </>
             )}
-            {props.pleedgeClass && (
+            {props.pledgeClass && (
               <>
                 <ModalSubtitle>Pledge Class</ModalSubtitle>
                 <ModalText>

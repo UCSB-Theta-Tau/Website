@@ -568,8 +568,9 @@
           "image": "fraternalfellowship.png"
         }
       ]
-    },{
-      "class": "Sigma",
+    },
+    {
+      "class": "sigma",
       "actives": [
         {
           "name": "Aiden Chen",
@@ -609,7 +610,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Harsha Pillarisetti",
@@ -619,7 +620,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Jeremy Sevilla",
@@ -629,7 +630,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Jerry Wang",
@@ -639,7 +640,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Joseph Romero",
@@ -649,7 +650,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Kalyn Cheng",
@@ -659,7 +660,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Lily Jiang",
@@ -679,7 +680,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Manny Solis",
@@ -698,7 +699,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Nifemi Arowolo",
@@ -717,7 +718,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Pasha Ivashchenko",
@@ -736,7 +737,7 @@
           "what": "",
           "about": "",
           "linkedin": "",
-          "image": "fraternalfellowship.jpg"
+          "image": "fraternalfellowship.png"
         },
         {
           "name": "Zoe Wang",
