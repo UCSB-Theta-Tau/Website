@@ -1420,6 +1420,76 @@
                 "about": "I like playing video games, exploring the outdoors, and discovering new music",
                 "linkedin": "",
                 "image": "Winbert_Zhang.jpg"
+            },
+            {
+                "name": "Daisy Zhong",
+                "year": "4th Year Computer Science",
+                "hometown": "Rocklin, CA",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Daisy_Zhong.jpg"
+            },
+            {
+                "name": "Jessica Lu",
+                "year": "4th Year Mechanical Engineering",
+                "hometown": "Fremont, CA",
+                "why": "I joined TT to learn how to have a good social and academic balance in life and meet other cool COE people.",
+                "what": "I love hanging out with my pbros and how many close friends I've made in TT, its definitely been a great way for me to meet other people I would've otherwise never talked to.",
+                "about": "I love cooking for others, eating and food.",
+                "linkedin": "https://www.linkedin.com/in/jessica-lu-041a5b1b8/",
+                "image": "Jessica_Lu.jpg"
+            },
+            {
+                "name": "Jennifer Zhu",
+                "year": "4th Year Computer Science",
+                "hometown": "Cupertino, CA",
+                "why": "I join TT to find a community of people in engineering that shared the same interest in professionally and socially with me",
+                "what": "I enjoy TT because I find a sense of belonging with the actives and I got a lot of professional help and advice from people in the community",
+                "about": "In my spare time, I love to do activities that express creativity like drawing and photography. I also love grabbing 7 dollars coffee",
+                "linkedin": "https://www.linkedin.com/in/jenniferz2004/",
+                "image": "Jennifer_Zhu.jpg"
+            },
+            {
+                "name": "Michelle Thorbjorsen",
+                "year": "4th Year Chemical Engineering",
+                "hometown": "Pleasanton, CA",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Michelle_Thorbjorsen.jpg"
+            },
+            {
+                "name": "Sanjana Ganti",
+                "year": "4th Year Chemical Engineering",
+                "hometown": "Torrance, CA",
+                "why": "",
+                "what": "",
+                "about": "",
+                "linkedin": "",
+                "image": "Sanjana_Ganti.jpg"
+            },
+            {
+                "name": "Willy Li",
+                "year": "4th Year Mechanical Engineering",
+                "hometown": "Taipei, Taiwan",
+                "why": "I wanted to be friends with more UCSB engineers and expand my professional networking",
+                "what": "Making lifelong friends and actually have the opportunity to bond with them deeply. Everyone is easygoing and very helpful!",
+                "about": "I love to play and watch sports, especially football, baseball, and basketball. I also like to play the guitar and travel",
+                "linkedin": "",
+                "image": "Willy_Li.jpg"
+            },
+            {
+                "name": "Yoana Hui",
+                "year": "4th Year Chemical Engineering",
+                "hometown": "Hong Kong / San Francisco, CA",
+                "why": "To meet more people in engineering.",
+                "what": "Spontaneous hang out with the MUs!",
+                "about": "I like watching movies, exploring new musics (r&b is my fav!) and dance.",
+                "linkedin": "",
+                "image": "Yoana_Hui.jpg"
             }
         ]
     },
